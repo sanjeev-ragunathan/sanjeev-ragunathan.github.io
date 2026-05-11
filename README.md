@@ -4,5 +4,5 @@ personal website
 
 ### links:
 - [sanjeev-ragunathan.github.io](https://sanjeev-ragunathan.github.io/)
-- [sanjeevragunathan.com](https://www.sanjeevragunathan.com)
-- [sanjeev-ragunathan.com](https://www.sanjeev-ragunathan.com)
+- [sanjeevragunathan.com](https://sanjeevragunathan.com)
+- [sanjeev-ragunathan.com](https://sanjeev-ragunathan.com)
