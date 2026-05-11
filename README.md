@@ -1,6 +1,6 @@
 # Portfolio
 
-personal website
+personal webpage
 
 ### links:
 - [sanjeev-ragunathan.github.io](https://sanjeev-ragunathan.github.io/)
